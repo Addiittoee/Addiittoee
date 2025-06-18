@@ -40,4 +40,4 @@ I am passionate about technology, innovation, and building impactful projects.
 ---
 
 
-*"Learning by doing is the best way to grow."*
+Learning by doing is the best way to grow.
